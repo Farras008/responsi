@@ -1,0 +1,179 @@
+
+ 
+  
+  /* Menu Admin */
+  .bodyumum {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+  }
+  
+  .tx-judul {
+    text-align: center;
+    color: aliceblue;
+    font-size: 20pt;
+    background-color: #07326d;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  
+  .utama {
+    background-color: #d7e5fa;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+  }
+.d-flex {
+  margin-left: 60%;
+}
+
+  .navbar nav {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 0px;
+    font-weight: bold;
+    /* background-color: rgb(34, 233, 255); */
+  }
+  .nav-link {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 0px;
+    /* background-color: rgb(34, 233, 255); */
+  }
+
+  .nav-link:hover, .nav-item:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #07326d;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  .tx-selamat {
+    margin-top: 10%;
+    font-size: 35pt;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #07326d;
+  }
+
+
+  /* HAPUS */
+
+  .jd-hapus {
+    margin-top: 40px;
+    margin-left :40%;
+    margin-right: 40%;
+    background-color:#07326d ;
+    color: #fff;
+    font-size: 14pt;
+
+  }
+  
+ 
+
+  
+  
+  
+  /* Data Inventaris */
+  
+  .btn-tambah {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+  
+  .tb-atas {
+    background-color: #07326d;
+    border: 2px #000;
+    border-style: 5px solid #000;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .tb-isi, table, tr, td {
+    border: 2px #000;
+    border-style: 5px solid #000;
+    background-color: #d7e5fa;
+    text-align: center;
+  }
+  
+  .tb-isi{
+    margin-left: 100px;
+    margin-right: 60px;
+  }
+
+
+  /* TambahData */
+
+  .tambah-utama {
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: rgb(216, 216, 216);
+  }
+
+
+  .jd-tambah {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    background-color:#07326d ;
+    color: #fff;
+    font-size: 14pt;
+
+  }
+
+  .tombol-bawah {
+    margin-top: 20px;
+  }
+
+
+  /* Ubah Data */
+
+  .ubahutama {
+    margin-top: 40px;
+    margin-left :30%;
+    margin-right: 30%;
+    background-color:#d0e3ff ;
+
+  }
+
+  .jd-ubah {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    background-color:#07326d ;
+    color: #fff;
+    font-size: 14pt;
+  }
+
+  .totalinventaris {
+    text-align: center;
+    font-size: 18;
+    color: #fff;
+    background-color: #07326d;
+
+  }
+
+  .footer {
+    margin-top: 35%;
+    background-color:#07326d ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+  }
